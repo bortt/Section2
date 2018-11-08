@@ -6,7 +6,6 @@
 #include "Faculty.h"
 #include "PartTime.h"
 #include <iomanip>
-
 #include <iostream>
 using namespace std;
 
