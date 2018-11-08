@@ -12,7 +12,7 @@ using namespace std;
 
 
 int main() {
-
+	// Hello
     
     Employee *empArray[15];
     empArray[0] = new Staff("Allen","Paita","123",'M',"2/23/59",50.00);
